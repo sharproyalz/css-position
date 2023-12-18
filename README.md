@@ -16,6 +16,8 @@ At the end of this tutorial, You will be able to know how to use each of this po
 
 I made a web page that can really demonstrate on how position works. Visit this *https://css-position-playground.vercel.app/*.
 
+![Postion Playground](../images/static.png)
+
 ### Prerequisite
 
 - You should have a basic knowledge about HTML and CSS. If you don't have yet, I recommend to visit this website *https://www.w3schools.com/html/* for html and *https://www.w3schools.com/css/* for CSS.
@@ -32,4 +34,4 @@ There are 5 positions that will be cover in this tutorial and they are:
 - Sticky
 - Fixed
 
-Without further ado, let's begin our lesson.
+Without further ado, let's begin our lesson. [Click here](https://github.com/sharproyalz/css-position/tree/main/0_Lesson)

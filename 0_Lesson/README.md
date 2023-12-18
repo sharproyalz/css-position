@@ -36,6 +36,7 @@ to setup Git, Please check this *https://docs.github.com/en/get-started/quicksta
   ```
   git clone https://github.com/YOUR-USERNAME/css-position
   ```
+
 - Press Enter. Your local clone will be created.
 
 #### Step 5 - Open your folder
@@ -54,4 +55,4 @@ To run an html file, you will need this extension. It also updates every time yo
 
 Each lessons except this one (lesson 0) has a starting and final output folder. Starting folder is where you will start to solve the given challenges and final output folder is the expected output.
 
-Congratulations! You can now start the tutorial. 
+Congratulations! You can now start the tutorial. [Click here](https://github.com/sharproyalz/css-position/tree/main/1_Lesson)

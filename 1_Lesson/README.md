@@ -37,4 +37,4 @@ Try to change the position of the box two into `static` and observe the changes.
 }
 ```
 
-Congratulations! You have now completed Lesson 1. Let's move on to the next lesson.
+Congratulations! You have now completed Lesson 1. Let's move on to the [next lesson](https://github.com/sharproyalz/css-position/tree/main/2_Lesson).

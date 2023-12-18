@@ -52,4 +52,4 @@ Try to add both boxes with `top` property with different pixels and observe the 
 }
 ```
 
-Congratulations! You have now completed Lesson 4. Let's move on to the next lesson.
+Congratulations! You have now completed Lesson 4. Let's move on to the [next lesson](https://github.com/sharproyalz/css-position/tree/main/5_Lesson).
