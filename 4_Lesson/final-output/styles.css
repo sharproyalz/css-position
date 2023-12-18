@@ -1,0 +1,24 @@
+#container {
+    display: flex;
+    height: 1000px;
+    border: 2px solid black;
+    gap: 4px;
+    margin-top: 100px;
+    position: static;
+}
+
+#box-one {
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    position: sticky;
+    top: 10px
+}
+
+#box-two {
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+    position: sticky;
+    top: 80px
+}

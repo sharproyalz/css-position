@@ -50,3 +50,8 @@ To run an html file, you will need this extension. It also updates every time yo
 - Search for Live Server by Ritwick Dey and install.
 - To use this. right click inside an html file and click 'Open with Live Server'.
 
+#### Final - Starting and Final Output Folder
+
+Each lessons except this one (lesson 0) has a starting and final output folder. Starting folder is where you will start to solve the given challenges and final output folder is the expected output.
+
+Congratulations! You can now start the tutorial. 
