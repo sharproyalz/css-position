@@ -16,7 +16,7 @@ At the end of this tutorial, You will be able to know how to use each of this po
 
 I made a web page that can really demonstrate on how position works. Visit this *https://css-position-playground.vercel.app/*.
 
-![Postion Playground](images/static.png)
+![Position Playground](images/static.png "Position Playground")
 
 ### Prerequisite
 
