@@ -66,4 +66,4 @@ Try to add `left: 100px;` in the box one and observe the changes.
 }
 ```
 
-Congratulations! You have now completed Lesson 3. Let's move on to the next lesson.
+Congratulations! You have now completed Lesson 3. Let's move on to the [next lesson](https://github.com/sharproyalz/css-position/blob/main/4_Lesson/README.md#lesson-4---sticky).

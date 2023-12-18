@@ -78,4 +78,4 @@ Try to add `top` with `40px` and `left` with `40px` to the position of the box o
 }
 ```
 
-Congratulations! You have now completed Lesson 3. Let's move on to the [next lesson](https://github.com/sharproyalz/css-position/tree/main/4_Lesson).
+Congratulations! You have now completed Lesson 2. Let's move on to the [next lesson](https://github.com/sharproyalz/css-position/blob/main/3_Lesson/README.md#lesson-3---absolute).

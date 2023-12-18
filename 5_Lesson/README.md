@@ -43,4 +43,4 @@ Try to add box one with `top` property of `40px` and observe the changes.
 }
 ```
 
-Congratulations! You have now completed the final lesson. You are now one step ahead of becoming a front-end developer.
+Congratulations! You have now completed the final lesson. You are now one step ahead of becoming a front-end developer 🎉.

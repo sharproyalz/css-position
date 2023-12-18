@@ -34,4 +34,4 @@ There are 5 positions that will be cover in this tutorial and they are:
 - Sticky
 - Fixed
 
-Without further ado, let's begin our lesson. [Click here](https://github.com/sharproyalz/css-position/tree/main/0_Lesson)
+Without further ado, let's begin our lesson. [Click here](https://github.com/sharproyalz/css-position/blob/main/0_Lesson/README.md#lesson-0---html-and-css)
