@@ -23,9 +23,9 @@ You don't need to put `position: static;` because it is the default value of HTM
 
 ### Exercise
 
-NOTE: Remember to modify the given code in start folder and as much as possible do not look the final output folder. If you are done you can check and compare the results to final output folder if it is the same.
+NOTE: Remember to modify the given code in start folder. As much as possible, do not look at the final output folder. If you are done you can check and compare the results to final output folder if it is the same.
 
-Try to change the position of the box two into `static` and observe the changes.
+In the CSS file, Try to change the position of the `#box-two` into `static` and observe the changes.
 
 ```css
 #box-two {

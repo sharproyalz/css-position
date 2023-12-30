@@ -19,7 +19,7 @@ A fixed-position element is positioned relative to the browser window or the vie
 
 ![Sticky Sample Output](../images/fixed.gif)
 
-Box one moved along in my screen when I tried to scroll.
+Box one moved together in my screen when I tried to scroll.
 
 ### NOTE
 
@@ -29,9 +29,9 @@ Box one moved along in my screen when I tried to scroll.
 
 ### Exercise
 
-NOTE: Remember to modify the given code in start folder and as much as possible do not look the final output folder.
+NOTE: Remember to modify the given code in start folder. As much as possible, do not look at the final output folder. If you are done you can check and compare the results to final output folder if it is the same.
 
-Try to add box one with `top` property of `40px` and observe the changes.
+In the CSS file, Try to add `#box-one` with `top` property of `40px` and observe the changes.
 
 ```css
 #box-one {

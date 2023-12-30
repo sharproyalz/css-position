@@ -23,17 +23,16 @@ A relatively positioned element is positioned relative to its normal position in
 
 ### Exercise
 
-NOTE: Remember to modify the given code in start folder and as much as possible do not look the final output folder.
+NOTE: Remember to modify the given code in start folder. As much as possible, do not at look the final output folder. If you are done you can check and compare the results to final output folder if it is the same.
 
-Try to change the position of the box two into `static` and observe the changes.
+In the CSS file, Try to change the position of the `#box-two` into `relative` and add both top and left property a `100px`, and observe the changes.
 
 ```css
 #box-two {
-  height: 100px;
-  width: 100px;
-  border: 2px solid blue;
-  position: absolute;
-  bottom: 0;
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+    position: static
 }
 ```
 

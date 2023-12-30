@@ -30,9 +30,9 @@ Box one moved when I tried to scroll my screen to lower when reaching the `top:2
 
 ### Exercise
 
-NOTE: Remember to modify the given code in start folder and as much as possible do not look the final output folder.
+NOTE: Remember to modify the given code in start folder. As much as possible, do not look at the final output folder. If you are done you can check and compare the results to final output folder if it is the same.
 
-Try to add both boxes with `top` property with different pixels and observe the changes.
+In the CSS file, Try to add both `#box-one` and `#box-two` with `top` property with different pixels and observe the changes.
 
 ```css
 #box-one {

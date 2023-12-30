@@ -19,5 +19,7 @@
     height: 100px;
     width: 100px;
     border: 2px solid blue;
-    position: static
+    position: static;
+    top:100px;
+    left: 100px;
 }
