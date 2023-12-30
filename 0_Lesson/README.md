@@ -10,13 +10,19 @@ If you have a Visual Studio Code, skip this step.
 
 to install VS Code, please check their documentation. Here is the link *https://code.visualstudio.com/docs/setup/windows*.
 
-#### Step 2 - Install Git
+#### Step 2 - Create a Github account
+
+If you have a Github account, skip this step.
+
+to create an account. Please check this *https://docs.github.com/en/get-started/quickstart/creating-an-account-on-github#signing-up-for-a-new-personal-account*
+
+#### Step 3 - Install Git
 
 If you have a Git, skip this step.
 
 to setup Git, Please check this *https://docs.github.com/en/get-started/quickstart/set-up-git#setting-up-git*.
 
-#### Step 3 - Fork repository
+#### Step 4 - Fork repository
 
 - On GitHub.com, navigate to the sharproyalz/css-position repository.
 - In the top-right corner of the page, in between Watch and Star , click Fork.
@@ -24,7 +30,7 @@ to setup Git, Please check this *https://docs.github.com/en/get-started/quicksta
 - Optionally, select Copy the DEFAULT branch only.
 - Click Create fork.
 
-#### Step 4 - Clone repository
+#### Step 5 - Clone repository
 
 - On GitHub.com, navigate to your fork of the css-position repository.
 - Above the list of files, click <> Code.
@@ -39,11 +45,11 @@ to setup Git, Please check this *https://docs.github.com/en/get-started/quicksta
 
 - Press Enter. Your local clone will be created.
 
-#### Step 5 - Open your folder
+#### Step 6 - Open your folder
 
 Navigate to which directory you cloned the repository and open it using VS Code.
 
-#### Step 6 - Install Live Server Extension
+#### Step 7 - Install Live Server Extension
 
 To run an html file, you will need this extension. It also updates every time you save your file so its very convenient.
 
